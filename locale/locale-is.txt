@@ -1,0 +1,40 @@
+Welcome = Velkomin í hagræðingarstofuna!
+
+LightType = LightType
+LightPoint = Point
+LightSpot = Kastljós
+CurrentLightAngle1 = Ljósið bendir á
+CurrentLightAngle2 = beint niður.
+CurrentSpotConeAngle = Spot keiluhorn:
+NotApplicable við = N/A
+
+
+Why = Hvers vegna hagræðing?
+
+Because1 = Resonite er kerfi sem veitir notendum sínum einstaklega sveigjanlega möguleika til að byggja og kóða. En slíkum sveigjanleika fylgir kostnaður, sérstaklega fyrir notendur sem eru nýir í þrívíddargerð og forritun: ef þú veist ekki enn hvernig hlutirnir virka, þá er mjög líklegt að þú velur óafvitandi val sem getur haft áhrif á frammistöðu, bæði fyrir þig og aðra fólk. Við trúum því að enginn fæðist með þessa þekkingu og að gagnleg leið til að fræðast um hana sé með praktískri nálgun. Þess vegna höfum við byggt upp þessa rannsóknarstofu, sem leið til að miðla þekkingu og gefa þér þau tæki sem þú þarft til að taka upplýstar ákvarðanir um hvernig þú byggir upp reynslu þína.
+
+Because2 = Hvernig þú og annað fólk upplifir heiminn í Resonite fer mjög eftir getu tölvunnar þinna, og ekki er tölvan allra eins. Við mælum ekki með því að byggingameistari byggi með lægsta samnefnara, heldur einfaldlega íhuga að ef þú getur valið sem bætir afköst án þess að fórna framtíðarsýn þinni, þá ættir þú að gera það.
+
+How1 = Hvert rými innan verkstæðisins mun útvega þér FPS mæli. Þú munt geta fiktað við hluti eða stillingar innan rýmisins og fylgst með áhrifum þess á ramma kerfisins á sekúndu. Vinnustofan er takmörkuð við einn einstakling í einu, sem fjarlægir öll áhrif sem aðgerðir eða eignir annarra (eins og avatar þeirra) gætu haft á frammistöðu kerfisins þíns.
+
+How2 = Þegar þú ert tilbúinn skaltu halda áfram í gegnum gáttina inn í fyrstu rannsóknarstofuna.
+
+
+Portal01 = Lab #1 - Lýsing
+
+PointvsSpot = Punktljós er ljós sem skín jafnt í allar áttir. Blettljós er ljós sem vísar í eina átt. Almenn þumalfingursregla er að punktljós jafngildir sex punktljósum (ímyndaðu þér eitt punktljós sem vísar meðfram jákvæðum og neikvæðum x, y og z ásum) - með öðrum orðum, hvað varðar "kostnað" við frammistöðu , punktljós "kostar" allt að sex einstök blettljós. Að auki verða útreikningar mun flóknari ef svæði sem verða fyrir áhrifum af ljósum skarast.
+
+InThisLabLighting = Í þessari tilraunastofu muntu hafa tækifæri til að bera saman blettljós á móti punktljósum og einnig bera saman hvernig skarast áhrifasvæði þeirra mun hafa áhrif á FPS þinn. Hægt er að skipta á milli punktljósa og punktljósa. Einnig er hægt að breyta svið ljósanna og, fyrir punktljós, bæði horninu sem ljósið sjálft bendir á, sem og horninu sem ákvarðar radíus ljóskeilunnar.
+
+
+Credits = Einingar
+CreditsProgramming = Forritun
+CreditsMaterial = Efni
+CreditsModeling = Líkanagerð
+CreditsDesign = Hönnun
+CreditsMusic = Tónlist
+
+Sources = Heimildir
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Þetta er í vinnslu. Ef þú vilt taka þátt í The Optimizers og leggja þitt af mörkum til þessa verkefnis, vinsamlegast snerta Jackalgirl í Resonite, á Discord eða í gegnum GitHub (tengill: ). Við kunnum sérstaklega að meta aðstoð við raunverulegar þýðingar á texta frá raunverulegu fólki yfir á önnur tungumál en ensku (og biðjumst velvirðingar ef þér hefur fundist vélþýðingin óþægileg).

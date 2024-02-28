@@ -1,0 +1,40 @@
+Welcome= Willkommen im Optimierungslabor Nr. 1
+
+LightType = LightType
+LightPoint = Punkt
+LightSpot = Spotlight
+CurrentLightAngle1 = Licht zeigt derzeit auf
+CurrentLightAngle2 = von gerade nach unten.
+CurrentSpotConeAngle = Spotkegelwinkel:
+NotApplicable = N/A
+
+
+Why = Warum Optimierung?
+
+Because1 = Resonite ist ein System, das seinen Benutzern äußerst flexible Optionen zum Erstellen und Codieren bietet. Diese Flexibilität ist jedoch mit Kosten verbunden, insbesondere für Benutzer, die noch keine Erfahrung mit 3D-Rendering und -Programmierung haben: Wenn Sie noch nicht wissen, wie die Dinge funktionieren, ist es sehr wahrscheinlich, dass Sie unwissentlich Entscheidungen treffen, die sich auf die Leistung auswirken können, sowohl für Sie selbst als auch für andere Menschen. Wir glauben, dass niemand mit diesem Wissen geboren wird und dass ein praktischer Ansatz eine sinnvolle Möglichkeit ist, es zu erlernen. Aus diesem Grund haben wir dieses Labor eingerichtet, um Wissen auszutauschen und Ihnen die Werkzeuge an die Hand zu geben, die Sie benötigen, um fundierte Entscheidungen darüber zu treffen, wie Sie Ihre Erfahrungen gestalten.
+
+Because2 = Wie Sie und andere Menschen die Welt in Resonite erleben, hängt stark von den Fähigkeiten Ihres Computers ab, und nicht jeder Computer ist gleich. Wir schlagen nicht vor, dass ein Bauunternehmer nach dem kleinsten gemeinsamen Nenner bauen sollte, sondern bedenken Sie einfach, dass Sie dies tun sollten, wenn Sie eine Entscheidung treffen können, die die Leistung verbessert, ohne Ihre Vision zu opfern.
+
+How1 = Jeder Bereich innerhalb des Workshops stellt Ihnen einen FPS-Meter zur Verfügung. Sie können an Elementen oder Einstellungen im Raum herumbasteln und deren Auswirkungen auf die Bilder pro Sekunde Ihres Systems beobachten. Der Workshop ist auf jeweils eine Person beschränkt, wodurch jegliche Auswirkungen, die die Aktionen oder Vermögenswerte anderer Personen (z. B. deren Avatare) auf die Leistung Ihres Systems haben könnten, ausgeschlossen werden.
+
+How2 = Wenn Sie bereit sind, gehen Sie durch das Portal in das erste Labor.
+
+
+Portal01 = Labor Nr. 1 – Beleuchtung
+
+PointvsSpot = Ein Punktlicht ist ein Licht, das gleichmäßig in alle Richtungen strahlt. Ein Spotlicht ist ein Licht, das in eine Richtung zeigt. Als allgemeine Faustregel gilt, dass ein Punktlicht sechs Punktlichtern entspricht (stellen Sie sich ein einzelnes Punktlicht vor, das entlang der positiven und negativen x-, y- und z-Achse zeigt) – mit anderen Worten, im Hinblick auf die „Kosten“ der Leistung , ein Punktlicht „kostet“ so viel wie sechs einzelne Punktlichter. Darüber hinaus wird die Berechnung erheblich komplizierter, wenn sich die von den Lichtern betroffenen Bereiche überlappen.
+
+InThisLabLighting = In diesem Labor haben Sie die Möglichkeit, Scheinwerfer mit Punktlichtern zu vergleichen und auch zu vergleichen, wie sich die Überlappung ihrer Wirkungsbereiche auf Ihre FPS auswirkt. Sie können zwischen Punktlichtern und Spotlichtern wechseln. Sie können auch die Reichweite der Lichter ändern und bei Spotlichtern sowohl den Winkel, auf den das Licht selbst zeigt, als auch den Winkel, der den Radius seines Lichtkegels bestimmt.
+
+
+Credits = Credits
+CreditsProgrammierung = Programmierung
+CreditsMaterial = Materialien
+CreditsModeling = Modellieren
+CreditsDesign = Design
+CreditsMusik = Musik
+
+Sources = Quellen
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Dies ist eine laufende Arbeit. Wenn Sie The Optimizers beitreten und zu diesem Projekt beitragen möchten, wenden Sie sich bitte an Jackalgirl in Resonite, auf Discord oder über GitHub (Link: ). Wir würden uns besonders über Hilfe bei echten Übersetzungen von Texten von echten Menschen in andere Sprachen als Englisch freuen (und entschuldigen uns, wenn Sie die maschinelle Übersetzung als umständlich empfunden haben).

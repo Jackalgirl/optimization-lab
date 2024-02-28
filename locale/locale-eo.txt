@@ -1,0 +1,41 @@
+Welcome = Bonvenon al la Optimumigo-Laboratorio!
+
+LightType = Lumo-Tipo
+LightPoint = Punkto
+LightPoint = Spoto
+CurrentLightAngle1 = Lumo nuntempe indikas
+CurrentLightAngle2 = de rekte malsupren.
+CurrentSpotConeAngle = Punkta konusa angulo:
+NotApplicable = N/A
+
+
+Why = Kial Optimumigo?
+
+Because1 = Resonite estas sistemo, kiu provizas siajn uzantojn per ekstreme flekseblaj ebloj por konstrui kaj kodigi. Sed tia fleksebleco venas kun kosto, precipe por uzantoj, kiuj estas novaj pri 3D-bildigo kaj programado: se vi ankoraŭ ne scias kiel funkcias la aferoj, tiam estas tre verŝajne ke vi senscie faras elektojn, kiuj povas influi rendimenton, kaj por vi kaj por aliaj. homoj. Ni kredas, ke neniu naskiĝas kun ĉi tiu scio kaj ke utila maniero lerni pri ĝi estas per praktika aliro. Jen kial ni konstruis ĉi tiun laboratorion, kiel manieron dividi scion, kaj doni al vi la ilojn, kiujn vi bezonas por fari informitajn decidojn pri kiel vi konstruas viajn spertojn.
+
+Because2 = Kiel vi kaj aliaj homoj spertas mondon en Resonite tre dependas de la kapabloj de viaj komputiloj, kaj ne ĉies komputilo estas la sama. Ni ne sugestas, ke konstruanto konstruu al la plej malalta komuna denominatoro, sed prefere simple konsideru, ke se vi povas fari elekton, kiu plibonigas rendimenton sen oferi vian vizion, vi devus.
+
+How1 = Ĉiu spaco ene de la laborrenkontiĝo provizos al vi FPS-mezurilon. Vi povos tuŝi erojn aŭ agordojn en la spaco kaj observi ĝian efikon al la kadroj de via sistemo sekundo. La laborrenkontiĝo estas limigita al unu persono samtempe, kio forigas ajnan efikon kiun la agoj aŭ valoraĵoj de aliaj homoj (kiel ekzemple iliaj avataroj) povus havi sur la rendimento de via sistemo.
+
+How2 = Kiam vi estas preta, iru tra la portalo en la unuan Laboratorion.
+
+
+Portal01 = Laboratorio #1 - Lumigo
+
+PointvsSpot = Punkta lumo estas lumo, kiu brilas egale en ĉiuj direktoj. Punkta lumo estas lumo kiu indikas en unu direkto. Ĝenerala regulo estas ke punkta lumo estas ekvivalenta al ses punktolumoj (imagu ununuran punktolumon indikantan laŭ la pozitivaj kaj negativaj x, y, kaj z-aksoj) - en aliaj vortoj, laŭ la "kosto" de efikeco. , punktolumo "kostas" tiom multe kiom ses individuaj spotlumoj. Plie, komputado iĝas multe pli komplika se areoj trafitaj per lumoj interkovras.
+
+InThisLabLighting = En ĉi tiu laboratorio, vi havos la ŝancon kompari punktolumojn kontraŭ punktolumoj, kaj ankaŭ kompari kiel interkovro de iliaj efektaj areoj influos vian FPS. Vi povas ŝanĝi inter punktolumoj kaj spotlumoj. Vi ankaŭ povas ŝanĝi la gamon de la lumoj kaj, por spotlumoj, ambaŭ la angulon, kiun la lumo mem indikas, same kiel la angulon, kiu determinas la radiuson de sia lumkonuso.
+
+
+Credits = Kreditoj
+CreditsProgramming = Programado
+CreditsMaterial = Materialoj
+CreditsModeling = Modelado
+CreditsDesign = Dezajno
+CreditsMusic = Muziko
+
+Sources = Fontoj
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Ĉi tio estas laboro en progreso. Se vi ŝatus aliĝi al The Optimizers kaj kontribui al ĉi tiu projekto, bonvolu tuŝi bazon kun Jackalgirl en Resonite, ĉe Discord aŭ per GitHub (ligilo: ). Ni precipe dankus helpon pri realaj tradukoj de teksto de realaj homoj al lingvoj krom la angla (kaj pardonpetu se vi trovis la maŝintradukon mallerta).
+

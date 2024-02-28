@@ -1,0 +1,40 @@
+Welcome = Tervetuloa optimointilaboratorioon!
+
+LightType = LightType
+LightPoint = Piste
+LightSpot = Valokeila
+CurrentLightAngle1 = Valo osoittaa tällä hetkellä
+CurrentLightAngle2 = suoraan alaspäin.
+CurrentSpotConeAngle = Pistekartiokulma:
+NotApplicable = N/A
+
+
+Why = Miksi optimointi?
+
+Because1 = Resonite on järjestelmä, joka tarjoaa käyttäjilleen erittäin joustavia vaihtoehtoja rakentamiseen ja koodaukseen. Mutta tällaisesta joustavuudesta tulee kustannuksia, erityisesti käyttäjille, jotka ovat uusia 3D-renderöinnin ja -ohjelmoinnin parissa: jos et vielä tiedä, miten asiat toimivat, on hyvin todennäköistä, että teet tietämättäsi valintoja, jotka voivat vaikuttaa suorituskykyyn sekä sinulle että muille. ihmiset. Uskomme, että kukaan ei synny tämän tiedon kanssa ja että käytännönläheinen lähestymistapa on hyödyllinen tapa oppia siitä. Siksi olemme rakentaneet tämän laboratorion, jotta voit jakaa tietoa ja antaa sinulle työkalut, joita tarvitset tietoon perustuvien päätösten tekemiseen kokemustesi rakentamisesta.
+
+Because2 = Se, miten sinä ja muut ihmiset koette maailman Resonitessa, riippuu suuresti tietokoneidesi ominaisuuksista, eikä kaikkien tietokone ole samanlainen. Emme ehdota, että rakentajan pitäisi rakentaa pienimmän yhteisen nimittäjän mukaan, vaan yksinkertaisesti harkitse, että jos voit tehdä valinnan, joka parantaa suorituskykyä tinkimättä näkemyksestäsi, sinun tulee tehdä se.
+
+How1 = Jokaisessa työpajan tilassa on FPS-mittari. Voit muokata kohteita tai asetuksia tilassa ja tarkkailla sen vaikutusta järjestelmäsi kuviin sekunnissa. Työpaja on rajoitettu yhdelle henkilölle kerrallaan, mikä poistaa kaikki vaikutukset, jotka muiden ihmisten toimilla tai omaisuudella (kuten heidän avatarillaan) voi olla järjestelmäsi suorituskykyyn.
+
+How2 = Kun olet valmis, siirry portaalin kautta ensimmäiseen laboratorioon.
+
+
+Portal01 = Lab #1 - Valaistus
+
+PointvsSpot = Pistevalo on valo, joka loistaa tasaisesti kaikkiin suuntiin. Kohdevalo on valo, joka osoittaa yhteen suuntaan. Yleinen peukalosääntö on, että pistevalo vastaa kuutta kohdevaloa (kuvittele yksi kohdevalo, joka osoittaa positiivista ja negatiivista x-, y- ja z-akselia) - toisin sanoen suorituskyvyn "kustannusten" kannalta. , pistevalo "maksaa" yhtä paljon kuin kuusi yksittäistä kohdevaloa. Lisäksi laskennasta tulee paljon monimutkaisempaa, jos valot menevät päällekkäin.
+
+InThisLabLighting = Tässä laboratoriossa sinulla on mahdollisuus verrata kohdevaloja pistevaloihin ja myös verrata, kuinka päällekkäiset vaikutusalueet vaikuttavat FPS:ään. Voit vaihtaa pistevalojen ja kohdevalojen välillä. Voit myös muuttaa valojen kantamaa ja kohdevalojen kohdalla sekä kulmaa, johon valo itse osoittaa, että kulmaa, joka määrää sen valokartion säteen.
+
+
+Credits = Krediitit
+CreditsProgramming = Ohjelmointi
+CreditsMaterial = Materiaalit
+CreditsModeling = Mallintaminen
+CreditsDesign = Suunnittelu
+CreditsMusic = Musiikki
+
+Sources = Lähteet
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Tämä on työn alla. Jos haluat liittyä The Optimizers -ryhmään ja osallistua tähän projektiin, ota yhteyttä Jackalgirliin Resonitessa, Discordissa tai GitHubin kautta (linkki: ). Arvostamme erityisesti apua oikeiden ihmisten tekstin käännöksissä muille kielille kuin englanniksi (ja pahoittelemme, jos konekäännös on mielestäsi hankala).

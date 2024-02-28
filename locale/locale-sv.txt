@@ -1,0 +1,39 @@
+Welcome = Välkommen till optimeringslabbet!
+
+LightType = LightType
+LightPoint = Point
+LightSpot = Spotlight
+CurrentLightAngle1 = Ljuset pekar för närvarande på
+CurrentLightAngle2 = från rakt ner.
+CurrentSpotConeAngle = Punktkonvinkel:
+NotApplicable = N/A
+
+Why = Varför optimering?
+
+Because1 = Resonite är ett system som ger sina användare extremt flexibla alternativ för att bygga och koda. Men sådan flexibilitet kommer med en kostnad, särskilt för användare som är nya inom 3D-rendering och programmering: om du ännu inte vet hur saker fungerar, då är det mycket troligt att du omedvetet gör val som kan påverka prestanda, både för dig och för andra människor. Vi tror att ingen föds med denna kunskap och att ett användbart sätt att lära sig om det är med ett praktiskt tillvägagångssätt. Det är därför vi har byggt det här labbet, som ett sätt att dela kunskap och ge dig de verktyg du behöver för att fatta välgrundade beslut om hur du konstruerar dina erfarenheter.
+
+Because2 = Hur du och andra människor upplever en värld i Resonite beror väldigt mycket på dina datorers kapacitet, och allas datorer är inte likadana. Vi föreslår inte att en byggare ska bygga till minsta gemensamma nämnare, utan snarare överväga att om du kan göra ett val som förbättrar prestandan utan att offra din vision, bör du göra det.
+
+How1 = Varje utrymme i verkstaden kommer att förse dig med en FPS-mätare. Du kommer att kunna mixtra med objekt eller inställningar inom utrymmet och observera dess effekt på ditt systems bildrutor per sekund. Workshopen är begränsad till en person åt gången, vilket tar bort all effekt som andra människors handlingar eller tillgångar (som deras avatarer) kan ha på ditt systems prestanda.
+
+How2 = När du är redo, fortsätt genom portalen till det första labbet.
+
+
+Portal01 = Lab #1 - Belysning
+
+PointvsSpot = Ett punktljus är ett ljus som lyser jämnt i alla riktningar. En spotlight är ett ljus som pekar i en riktning. En allmän tumregel är att ett punktljus är ekvivalent med sex spotlights (föreställ dig ett enda spotljus som pekar längs de positiva och negativa x-, y- och z-axlarna) - med andra ord i termer av "kostnaden" för prestanda , en punktljus "kostar" så mycket som sex individuella spotlights. Dessutom blir beräkningen mycket mer komplicerad om områden som påverkas av ljus överlappar varandra.
+
+InThisLabLighting = I det här labbet kommer du att ha möjlighet att jämföra spotlights kontra punktljus, och även jämföra hur överlappande deras effektområden påverkar din FPS. Du kan växla mellan punktljus och spotlights. Du kan också ändra räckvidden för ljusen och, för spotlights, både vinkeln som ljuset självt pekar på, såväl som vinkeln som bestämmer radien på dess ljuskon.
+
+
+Credits = Credits
+CreditsProgrammering = Programmering
+CreditsMaterial = Material
+CreditsModeling = Modellering
+CreditsDesign = Design
+CreditsMusic = Musik
+
+Sources = Källor
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Detta är ett pågående arbete. Om du vill gå med i The Optimizers och bidra till det här projektet, vänligen kontakta Jackalgirl i Resonite, på Discord eller via GitHub (länk: ). Vi skulle särskilt uppskatta hjälp med riktiga översättningar av text från riktiga människor till andra språk än engelska (och ber om ursäkt om du har tyckt att maskinöversättningen är besvärlig).

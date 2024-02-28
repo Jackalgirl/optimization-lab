@@ -1,0 +1,40 @@
+Welcome = Tere tulemast optimeerimislaborisse!
+
+LightType = LightType
+LightPoint = punkt
+LightSpot = Prožektor
+CurrentLightAngle1 = Valgus on hetkel suunatud
+CurrentLightAngle2 = otse alla.
+CurrentSpotConeAngle = täpikoonuse nurk:
+NotApplicable = N/A
+
+
+Why = Miks optimeerimine?
+
+Because1 = Resonite on süsteem, mis pakub oma kasutajatele väga paindlikke võimalusi ehitamiseks ja kodeerimiseks. Kuid sellise paindlikkusega kaasnevad kulud, eriti kasutajatele, kes pole 3D-renderdamise ja -programmeerimisega uued: kui te veel ei tea, kuidas asjad töötavad, siis on väga tõenäoline, et teete endale teadmata valikuid, mis võivad jõudlust mõjutada nii teie kui ka teiste jaoks. inimesed. Usume, et keegi ei sünni nende teadmistega ja praktiline lähenemine on kasulik viis nende tundmaõppimiseks. Seetõttu oleme loonud selle labori, et jagada teadmisi ja pakkuda teile tööriistu, mida vajate teadlike otsuste tegemiseks oma kogemuste loomise kohta.
+
+Because2 = See, kuidas teie ja teised inimesed Resonite'i maailma kogete, sõltub suuresti teie arvutite võimalustest ja kõigi arvutid ei ole ühesugused. Me ei soovita, et ehitaja peaks ehitama väikseima ühisnimetaja järgi, vaid pigem lihtsalt mõelge, et kui saate teha valiku, mis parandab jõudlust ilma oma visiooni ohverdamata, peaksite seda tegema.
+
+How1 = Igas töökojas olevas ruumis on FPS-mõõtur. Saate ruumis olevate üksuste või seadistustega nokitseda ja jälgida selle mõju teie süsteemi kaadritele sekundis. Töötuba on korraga piiratud ühele inimesele, mis eemaldab igasuguse mõju, mida teiste inimeste tegevus või vara (nt avatarid) võivad teie süsteemi jõudlusele avaldada.
+
+How2 = Kui olete valmis, minge portaali kaudu esimesse laborisse.
+
+
+Portal01 = Lab #1 – valgustus
+
+PointvsSpot = Punktvalgus on valgus, mis paistab ühtlaselt igas suunas. Kohtvalgusti on valgus, mis näitab ühes suunas. Üldine rusikareegel on see, et punktvalgusti võrdub kuue kohtvalgustusega (kujutage ette ühte kohtvalgustit, mis on suunatud piki positiivset ja negatiivset x-, y- ja z-telge) – teisisõnu jõudluse "kulu" poolest. , punktvalgusti "maksab" sama palju kui kuus üksikut kohtvalgustit. Lisaks muutub arvutamine palju keerulisemaks, kui tuledest mõjutatud alad kattuvad.
+
+InThisLabLighting = Selles laboris on teil võimalus võrrelda kohtvalgusteid ja punkttulesid ning võrrelda ka seda, kuidas nende mõjualade kattumine mõjutab teie FPS-i. Saate vahetada punkt- ja kohtvalgustite vahel. Samuti saate muuta valgustite ulatust ja kohtvalgustite puhul nii nurka, kuhu valgus ise suunab, kui ka nurka, mis määrab selle valguskoonuse raadiuse.
+
+
+Credits = Krediidid
+CreditsProgramming = Programmeerimine
+CreditsMaterial = Materjalid
+CreditsModeling = Modelleerimine
+CreditsDesign = Disain
+CreditsMusic = Muusika
+
+Sources = Allikad
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = See on pooleliolev töö. Kui soovite The Optimizersiga liituda ja sellesse projekti panustada, võtke ühendust Jackalgirliga Resonite'is, Discordis või GitHubi kaudu (link: ). Oleksime eriti tänulikud abi eest, kui tõlgite teksti päriselt inimestelt muudesse keeltesse kui inglise keel (ja vabandame, kui masintõlge on teile ebamugav).

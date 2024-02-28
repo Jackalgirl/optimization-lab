@@ -1,0 +1,40 @@
+Welcome = Bienvenido al Laboratorio de Optimización!
+
+LightType = Tipo de luz
+LightPoint = Punto
+LightSpot = Foco
+CurrentLightAngle1 = La luz actualmente apunta a
+CurrentLightAngle2 = desde hacia abajo.
+CurrentSpotConeAngle = Ángulo del cono puntual:
+NotApplicable = N/A
+
+
+Why = Por qué optimización?
+
+Because1 = Resonite es un sistema que ofrece a sus usuarios opciones extremadamente flexibles para construir y codificar. Pero tal flexibilidad tiene un costo, especialmente para los usuarios que son nuevos en el renderizado y la programación 3D: si aún no sabes cómo funcionan las cosas, es muy probable que, sin saberlo, tomes decisiones que pueden afectar el rendimiento, tanto para ti como para otros. gente. Creemos que nadie nace con este conocimiento y que una forma útil de aprenderlo es de forma práctica. Es por eso que hemos creado este laboratorio, como una forma de compartir conocimientos y brindarle las herramientas que necesita para tomar decisiones informadas sobre cómo construir sus experiencias.
+
+Because2 = La forma en que usted y otras personas experimentan un mundo en Resonite depende en gran medida de las capacidades de sus computadoras, y no todas las computadoras son iguales. No sugerimos que un constructor deba construir con el mínimo común denominador, sino que simplemente considere que si puede tomar una decisión que mejore el rendimiento sin sacrificar su visión, debería hacerlo.
+
+How1 = Cada espacio dentro del taller te proporcionará un medidor de FPS. Podrás jugar con elementos o configuraciones dentro del espacio y observar su efecto en los fotogramas por segundo de tu sistema. El taller está limitado a una persona a la vez, lo que elimina cualquier efecto que las acciones o activos de otras personas (como sus avatares) puedan tener en el rendimiento de su sistema.
+
+How2 = Cuando estés listo, atraviesa el portal hasta el primer laboratorio.
+
+
+Portal01 = Laboratorio #1 - Iluminación
+
+PointvsSpot = Una luz puntual es una luz que brilla uniformemente en todas direcciones. Un foco es una luz que apunta en una dirección. Una regla general es que un punto de luz equivale a seis puntos de luz (imagínese un solo punto de luz apuntando a lo largo de los ejes x, y y z positivos y negativos); en otras palabras, en términos del "coste" del rendimiento. , un foco "cuesta" tanto como seis focos individuales. Además, el cálculo se vuelve mucho más complicado si las áreas afectadas por las luces se superponen.
+
+InThisLabLighting = En esta práctica de laboratorio, tendrá la oportunidad de comparar focos con focos y también comparar cómo la superposición de sus áreas de efecto afectará su FPS. Puede cambiar entre luces puntuales y luces puntuales. También puedes cambiar el alcance de las luces y, en el caso de los focos, tanto el ángulo al que apunta la luz como el ángulo que determina el radio de su cono de luz.
+
+
+Credits = Créditos
+CreditsProgramming = Programación
+CreditsMaterial = Materiales
+CreditsModeling = Modelado
+CreditsDesign = Diseño
+CreditsMusic = Música
+
+Sources = Fuentes
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Este es un trabajo en progreso. Si desea unirse a The Optimizers y contribuir a este proyecto, comuníquese con Jackalgirl en Resonite, en Discord o mediante GitHub (enlace:). Agradeceríamos especialmente la ayuda con traducciones reales de textos de personas reales a idiomas distintos del inglés (y nos disculpamos si la traducción automática le resulta incómoda).

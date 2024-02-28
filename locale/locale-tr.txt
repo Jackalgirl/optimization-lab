@@ -1,0 +1,40 @@
+Welcome = Optimizasyon Laboratuvarına Hoş Geldiniz!
+
+LightType = Işık Türü
+LightPoint = Nokta
+LightSpot = Spot Işığı
+CurrentLightAngle1 = Işık şu anda işaret ediyor
+CurrentLightAngle2 = düzden aşağıya.
+CurrentSpotConeAngle = Nokta koni açısı:
+NotApplicable = Geçerli Değil
+
+
+Why = Neden Optimizasyon?
+
+Because1 = Resonite, kullanıcılarına inşaat ve kodlama konusunda son derece esnek seçenekler sunan bir sistemdir. Ancak bu tür bir esnekliğin, özellikle 3D oluşturma ve programlama konusunda yeni olan kullanıcılar için bir maliyeti vardır: İşlerin nasıl yürüdüğünü henüz bilmiyorsanız, o zaman farkında olmadan hem sizin hem de başkalarının performansını etkileyebilecek seçimler yapıyor olmanız çok muhtemeldir. insanlar. Hiç kimsenin bu bilgiyle doğmadığına ve bunu öğrenmenin yararlı bir yolunun uygulamalı bir yaklaşım olduğuna inanıyoruz. Bu laboratuvarı, bilgiyi paylaşmanın ve deneyimlerinizi nasıl oluşturacağınız konusunda bilinçli kararlar vermeniz için ihtiyaç duyduğunuz araçları sağlamanın bir yolu olarak kurmamızın nedeni budur.
+
+Because2 = Sizin ve diğer insanların Resonite'te bir dünyayı nasıl deneyimlediği, büyük ölçüde bilgisayarlarınızın yeteneklerine bağlıdır ve herkesin bilgisayarı aynı değildir. Bir inşaatçının en düşük ortak paydayı temel alarak inşa etmesini önermiyoruz; bunun yerine, vizyonunuzdan ödün vermeden performansı artıran bir seçim yapabiliyorsanız bunu yapmanız gerektiğini göz önünde bulundurun.
+
+How1 = Atölye içindeki her alan size bir FPS ölçer sağlayacaktır. Alan içindeki öğeler veya ayarlar üzerinde değişiklik yapabilecek ve bunların sisteminizin saniye başına kareleri üzerindeki etkisini gözlemleyebileceksiniz. Atölye aynı anda bir kişiyle sınırlıdır; bu, diğer kişilerin eylemlerinin veya varlıklarının (avatarları gibi) sisteminizin performansı üzerinde yaratabileceği her türlü etkiyi ortadan kaldırır.
+
+How2 = Hazır olduğunuzda portaldan geçerek ilk Laboratuvara gidin.
+
+
+Portal01 = Laboratuvar #1 - Aydınlatma
+
+PointvsSpot = Nokta ışık, her yöne eşit şekilde parlayan bir ışıktır. Spot ışık, bir yöne işaret eden bir ışıktır. Genel bir kural, bir nokta ışığın altı spot ışığa eşdeğer olmasıdır (pozitif ve negatif x, y ve z eksenlerini işaret eden tek bir spot ışığı hayal edin), başka bir deyişle, performansın "maliyeti" açısından , bir nokta ışığı altı ayrı spot ışığı kadar "maliyetlidir". Ayrıca ışıklardan etkilenen alanlar çakışırsa hesaplama çok daha karmaşık hale gelir.
+
+InThisLabLighting = Bu laboratuvarda, spot ışıklarla nokta ışıkları karşılaştırma fırsatına sahip olacak ve ayrıca bunların örtüşen etki alanlarının FPS'nizi nasıl etkileyeceğini karşılaştıracaksınız. Nokta ışıkları ve spot ışıkları arasında geçiş yapabilirsiniz. Ayrıca ışıkların aralığını ve spot ışıklar için hem ışığın işaret ettiği açıyı, hem de ışık konisinin yarıçapını belirleyen açıyı değiştirebilirsiniz.
+
+
+Kredi = Kredi
+CreditsProgramming = Programlama
+CreditsMaterial = Malzemeler
+CreditsModeling = Modelleme
+CreditsDesign = Tasarım
+KrediMüzik = Müzik
+
+Sources = Kaynaklar
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Bu devam eden bir çalışmadır. The Optimizers'a katılmak ve bu projeye katkıda bulunmak istiyorsanız lütfen Resonite, Discord veya GitHub (bağlantı: ) aracılığıyla Jackalgirl ile iletişime geçin. Gerçek insanlardan İngilizce dışındaki dillere gerçek metin çevirileri konusunda yardımınızı özellikle takdir ediyoruz (ve makine çevirisini uygunsuz bulduysanız özür dileriz).

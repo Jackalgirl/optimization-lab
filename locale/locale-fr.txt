@@ -1,0 +1,40 @@
+Welcome = Bienvenue dans l'atelier d'optimisation!
+
+LightType = Type de lumière
+LightPoint = Point
+LightSpot = Projecteur
+CurrentLightAngle1 = La lumière pointe actuellement vers
+CurrentLightAngle2 = de haut en bas.
+CurrentSpotConeAngle = Angle du cône du spot :
+NotApplicable = N/A
+
+
+Why = Pourquoi l'optimisation ?
+
+Because1 = Resonite est un système qui offre à ses utilisateurs des options extrêmement flexibles pour la construction et le codage. Mais une telle flexibilité a un coût, en particulier pour les utilisateurs qui débutent dans le rendu et la programmation 3D : si vous ne savez pas encore comment les choses fonctionnent, il est très probable que vous fassiez sans le savoir des choix qui peuvent affecter les performances, tant pour vous que pour les autres. personnes. Nous pensons que personne ne naît avec ces connaissances et qu'une approche pratique est un moyen utile d'en apprendre davantage. C'est pourquoi nous avons créé ce laboratoire, afin de partager des connaissances et de vous donner les outils dont vous avez besoin pour prendre des décisions éclairées sur la manière dont vous construisez vos expériences.
+
+Because2 = La façon dont vous et les autres découvrez le monde de Resonite dépend beaucoup des capacités de vos ordinateurs, et les ordinateurs de tout le monde ne sont pas identiques. Nous ne suggérons pas qu'un constructeur doive construire selon le plus petit commun dénominateur, mais considérons simplement que si vous pouvez faire un choix qui améliore les performances sans sacrifier votre vision, vous devriez le faire.
+
+How1 = Chaque espace de l'atelier vous fournira un compteur FPS. Vous pourrez bricoler des éléments ou des paramètres dans l'espace et observer son effet sur les images par seconde de votre système. L'atelier est limité à une personne à la fois, ce qui supprime tout effet que les actions ou les actifs d'autres personnes (comme leurs avatars) pourraient avoir sur les performances de votre système.
+
+How2 = Lorsque vous êtes prêt, passez par le portail pour accéder au premier laboratoire.
+
+
+Portal01 = Lab #1 - Éclairage
+
+PointvsSpot = Une lumière ponctuelle est une lumière qui brille uniformément dans toutes les directions. Un spot est une lumière qui pointe dans une direction. Une règle générale est qu'un point lumineux équivaut à six spots (imaginez un seul spot pointant le long des axes x, y et z positifs et négatifs) - en d'autres termes, en termes de « coût » de performance. , un spot lumineux « coûte » autant que six spots individuels. De plus, le calcul devient beaucoup plus compliqué si les zones affectées par les lumières se chevauchent.
+
+InThisLabLighting = Dans cet atelier, vous aurez l'occasion de comparer les spots et les spots, et également de comparer l'impact du chevauchement de leurs zones d'effet sur votre FPS. Vous pouvez basculer entre les spots et les spots. Vous pouvez également modifier la portée des lumières et, pour les spots, à la fois l'angle vers lequel la lumière elle-même pointe, ainsi que l'angle qui détermine le rayon de son cône lumineux.
+
+
+Credits = Crédits
+CreditsProgramming = Programmation
+CreditsMaterial = Matériaux
+CreditsModeling = Modélisation
+CreditsDesign = Design
+CreditsMusic = Musique
+
+Sources = Sources
+SourcesTraduction = GoogleTraduction
+
+AdditionalNotes = Ceci est un travail en cours. Si vous souhaitez rejoindre The Optimizers et contribuer à ce projet, veuillez contacter Jackalgirl dans Resonite, sur Discord ou via GitHub (lien : ). Nous apprécierions particulièrement de l'aide pour de vraies traductions de textes provenant de vraies personnes dans des langues autres que l'anglais (et nous nous excusons si vous avez trouvé la traduction automatique délicate).

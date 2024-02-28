@@ -1,0 +1,40 @@
+Welcome = Vítejte v optimalizační laboratoři č. 1
+
+LightType = LightType
+LightPoint = bod
+LightSpot = Spotlight
+CurrentLightAngle1 = Světlo aktuálně ukazuje na
+CurrentLightAngle2 = zpříma dolů.
+CurrentSpotConeAngle = Úhel bodového kužele:
+NotApplicable = N/A
+
+
+Why = Proč optimalizace?
+
+Because1 = Resonite je systém, který svým uživatelům poskytuje extrémně flexibilní možnosti pro vytváření a kódování. Taková flexibilita však něco stojí, zejména pro uživatele, kteří začínají s 3D vykreslováním a programováním: pokud ještě nevíte, jak věci fungují, je velmi pravděpodobné, že nevědomky děláte rozhodnutí, která mohou ovlivnit výkon, a to jak pro vás, tak pro ostatní. lidé. Věříme, že s těmito znalostmi se nikdo nenarodil a že užitečný způsob, jak se o nich dozvědět, je praktický přístup. To je důvod, proč jsme vytvořili tuto laboratoř jako způsob, jak sdílet znalosti, a poskytnout vám nástroje, které potřebujete k informovanému rozhodování o tom, jak vytváříte své zkušenosti.
+
+Because2 = Jak vy a ostatní lidé zažíváte svět v Resonite, velmi závisí na schopnostech vašich počítačů a ne každý má stejný počítač. Nenavrhujeme, že by měl stavitel stavět na nejnižším společném jmenovateli, ale spíše jednoduše zvažte, že pokud můžete udělat volbu, která zlepší výkon, aniž byste obětovali svou vizi, měli byste.
+
+How1 = Každý prostor v dílně vám poskytne FPS metr. Budete si moci pohrát s položkami nebo nastaveními v prostoru a sledovat jejich vliv na počet snímků za sekundu vašeho systému. Workshop je omezen na jednu osobu najednou, což odstraňuje jakýkoli vliv, který by mohly mít akce nebo majetek jiných lidí (jako jsou jejich avataři) na výkon vašeho systému.
+
+How2 = Až budete připraveni, pokračujte portálem do první laboratoře.
+
+
+Portal01 = Laboratoř #1 - Osvětlení
+
+PointvsSpot = Bodové světlo je světlo, které svítí rovnoměrně do všech stran. Bodové světlo je světlo, které ukazuje jedním směrem. Obecným pravidlem je, že bodové světlo je ekvivalentní šesti bodovým světlům (představte si jedno bodové světlo mířící podél kladné a záporné osy x, y a z) – jinými slovy, pokud jde o „náklady“ na výkon. , bodové světlo „stojí“ tolik jako šest samostatných bodových světel. Navíc se výpočet stává mnohem komplikovanějším, pokud se oblasti ovlivněné světly překrývají.
+
+InThisLabLighting = V této laboratoři budete mít příležitost porovnat bodová světla s bodovými světly a také porovnat, jak překrývající se oblasti jejich působení ovlivní vaše FPS. Můžete přepínat mezi bodovými světly a bodovými světly. Můžete také měnit dosah světel a u bodových světel jak úhel, pod kterým světlo samotné míří, tak i úhel, který určuje poloměr jeho světelného kužele.
+
+
+Credits = Kredity
+CreditsProgramming = Programování
+CreditsMaterial = Materiály
+CreditsModeling = Modeling
+CreditsDesign = Design
+CreditsMusic = Hudba
+
+Sources = Zdroje
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Toto je nedokončená práce. Pokud byste se chtěli připojit k The Optimizers a přispět k tomuto projektu, dotkněte se základny s Jackalgirl v Resonite, na Discordu nebo přes GitHub (odkaz: ). Zvláště bychom ocenili pomoc se skutečnými překlady textu od skutečných lidí do jiných jazyků než angličtiny (a omlouváme se, pokud vám strojový překlad připadá trapný).

@@ -1,0 +1,40 @@
+Welcome = Witamy w laboratorium optymalizacji!
+
+LightType = Typ światła
+LightPoint = Punkt
+LightSpot = Reflektor
+CurrentLightAngle1 = Światło aktualnie wskazuje
+CurrentLightAngle2 = Od prosto w dół.
+CurrentSpotConeAngle = Kąt stożka plamki:
+NotApplicable = Nie dotyczy
+
+
+Why = Dlaczego optymalizacja?
+
+Because1 = Resonite to system zapewniający swoim użytkownikom niezwykle elastyczne możliwości budowania i kodowania. Jednak taka elastyczność wiąże się z kosztami, szczególnie dla użytkowników, którzy dopiero zaczynają przygodę z renderowaniem i programowaniem 3D: jeśli nie wiesz jeszcze, jak to działa, jest bardzo prawdopodobne, że nieświadomie dokonujesz wyborów, które mogą mieć wpływ na wydajność, zarówno dla Ciebie, jak i innych ludzie. Wierzymy, że nikt nie rodzi się z tą wiedzą i że przydatnym sposobem na jej zdobycie jest praktyczne podejście. Dlatego właśnie stworzyliśmy to laboratorium, aby dzielić się wiedzą i zapewnić narzędzia potrzebne do podejmowania świadomych decyzji dotyczących sposobu konstruowania swoich doświadczeń.
+
+Because2 = To, jak ty i inni ludzie doświadczacie świata w Resonite, zależy w dużej mierze od możliwości waszych komputerów, a nie każdy komputer jest taki sam. Nie sugerujemy, że konstruktor powinien budować według najniższego wspólnego mianownika, ale raczej po prostu bierze pod uwagę, że jeśli możesz dokonać wyboru, który poprawi wydajność bez poświęcania swojej wizji, powinieneś to zrobić.
+
+How1 = Każde miejsce w warsztacie zapewni Ci miernik FPS. Będziesz mógł majstrować przy elementach lub ustawieniach w tym obszarze i obserwować ich wpływ na liczbę klatek na sekundę w systemie. W warsztacie może brać udział tylko jedna osoba na raz, co eliminuje wszelki wpływ, jaki działania lub zasoby innych osób (takie jak ich awatary) mogą mieć na wydajność systemu.
+
+How2 = Kiedy będziesz gotowy, przejdź przez portal do pierwszego laboratorium.
+
+
+Portal01 = Laboratorium nr 1 – Oświetlenie
+
+PointvsSpot = Światło punktowe to światło, które świeci równomiernie we wszystkich kierunkach. Światło punktowe to światło skierowane w jednym kierunku. Ogólna zasada jest taka, że ​​światło punktowe odpowiada sześciu światłom punktowym (wyobraźmy sobie pojedyncze światło punktowe skierowane wzdłuż dodatnich i ujemnych osi x, y i z) – innymi słowy, pod względem „kosztu” wydajności , światło punktowe „kosztuje” tyle, co sześć pojedynczych reflektorów punktowych. Ponadto obliczenia stają się znacznie bardziej skomplikowane, jeśli obszary objęte oświetleniem nakładają się na siebie.
+
+InThisLabLighting = W tym laboratorium będziesz miał okazję porównać światła punktowe ze światłami punktowymi, a także porównać, jak nakładanie się ich obszarów działania wpłynie na liczbę klatek na sekundę. Można przełączać pomiędzy światłami punktowymi i punktowymi. Możesz także zmienić zasięg świateł, a w przypadku reflektorów zarówno kąt, pod jakim skierowane jest samo światło, jak i kąt określający promień jego stożka świetlnego.
+
+
+Credits = Kredyty
+CreditsProgramming = Programowanie
+CreditsMaterial = Materiały
+CreditsModeling = Modelowanie
+CreditsDesign = Projekt
+Creditsmusic = Muzyka
+
+Source = Źródła
+SourcesTranslation = Tłumacz Google
+
+AdditionalNotes = To jest praca w toku. Jeśli chcesz dołączyć do The Optimizers i przyczynić się do tego projektu, skontaktuj się z Jackalgirl w Resonite, na Discordzie lub przez GitHub (link: ). Będziemy szczególnie wdzięczni za pomoc w prawdziwych tłumaczeniach tekstów od prawdziwych ludzi na języki inne niż angielski (i przepraszamy, jeśli tłumaczenie maszynowe uznasz za niewygodne).

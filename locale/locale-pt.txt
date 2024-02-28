@@ -1,0 +1,40 @@
+Welcome = Bem-vindo ao Laboratório de Otimização!
+
+LightType = LightType
+LightPoint = Ponto
+LightSpot = Destaque
+CurrentLightAngle1 = A luz está apontando para
+CurrentLightAngle2 = direto para baixo.
+CurrentSpotConeAngle = Ângulo do cone pontual:
+NotApplicable = N/A
+
+
+Why = Por que otimização?
+
+Because1 = Resonite é um sistema que oferece aos seus usuários opções extremamente flexíveis de construção e codificação. Mas essa flexibilidade tem um custo, especialmente para usuários que são novos em renderização e programação 3D: se você ainda não sabe como as coisas funcionam, é muito provável que você, sem saber, faça escolhas que podem afetar o desempenho, tanto para você quanto para os outros. pessoas. Acreditamos que ninguém nasce com este conhecimento e que uma forma útil de aprender sobre ele é através de uma abordagem prática. É por isso que construímos este laboratório, como uma forma de compartilhar conhecimento e fornecer as ferramentas necessárias para tomar decisões informadas sobre como construir suas experiências.
+
+Because2 = A maneira como você e outras pessoas vivenciam o mundo no Resonite depende muito das capacidades de seus computadores, e nem todos os computadores são iguais. Não sugerimos que um construtor construa até o menor denominador comum, mas simplesmente considere que se você puder fazer uma escolha que melhore o desempenho sem sacrificar sua visão, você deverá fazê-lo.
+
+How1 = Cada espaço do workshop fornecerá um medidor de FPS. Você poderá alterar itens ou configurações dentro do espaço e observar seu efeito nos quadros por segundo do seu sistema. O workshop é limitado a uma pessoa por vez, o que elimina qualquer efeito que as ações ou ativos de outras pessoas (como seus avatares) possam ter no desempenho do seu sistema.
+
+How2 = Quando estiver pronto, prossiga pelo portal para o primeiro laboratório.
+
+
+Portal01 = Laboratório #1 - Iluminação
+
+PointvsSpot = Uma luz pontual é uma luz que brilha uniformemente em todas as direções. Uma luz spot é uma luz que aponta em uma direção. Uma regra geral é que um ponto de luz é equivalente a seis focos de luz (imagine um único foco de luz apontando ao longo dos eixos x, y e z positivo e negativo) - em outras palavras, em termos de "custo" de desempenho , um foco de luz “custa” até seis focos individuais. Além disso, o cálculo se torna muito mais complicado se as áreas afetadas pelas luzes se sobrepuserem.
+
+InThisLabLighting = Neste laboratório, você terá a oportunidade de comparar luzes spot versus luzes pontuais e também comparar como a sobreposição de suas áreas de efeito afetará seu FPS. Você pode alternar entre luzes pontuais e luzes pontuais. Você também pode alterar o alcance das luzes e, para luzes spot, tanto o ângulo para o qual a própria luz está apontando, quanto o ângulo que determina o raio de seu cone de luz.
+
+
+Credits = Créditos
+CreditsProgramming = Programação
+CreditsMaterial = Materiais
+CreditsModeling= Modelagem
+CreditsDesign = Design
+CreditsMusic = Música
+
+Sources = Fontes
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Este é um trabalho em andamento. Se você gostaria de se juntar aos The Optimizers e contribuir para este projeto, entre em contato com Jackalgirl no Resonite, no Discord ou via GitHub (link:). Gostaríamos especialmente de receber ajuda com traduções reais de textos de pessoas reais para outros idiomas além do inglês (e pedimos desculpas se você achou a tradução automática estranha).

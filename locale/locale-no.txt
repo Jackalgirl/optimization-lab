@@ -1,0 +1,40 @@
+Welcome = Velkommen til optimaliseringslaboratoriet!
+
+LightType = LightType
+LightPoint = Point
+LightSpot = Spotlight
+CurrentLightAngle1 = Lyset peker for øyeblikket på
+CurrentLightAngle2 = fra rett ned.
+CurrentSpotConeAngle = Spot kjeglevinkel:
+NotApplicable = N/A
+
+
+Why = Hvorfor optimalisering?
+
+Because1 = Resonite er et system som gir sine brukere ekstremt fleksible muligheter for bygging og koding. Men slik fleksibilitet kommer med en kostnad, spesielt for brukere som er nye innen 3D-gjengivelse og programmering: hvis du ennå ikke vet hvordan ting fungerer, så er det svært sannsynlig at du ubevisst tar valg som kan påvirke ytelsen, både for deg og andre mennesker. Vi tror at ingen er født med denne kunnskapen, og at en nyttig måte å lære om den er med en praktisk tilnærming. Dette er grunnen til at vi har bygget denne laboratoriet, som en måte å dele kunnskap på, og gi deg verktøyene du trenger for å ta informerte beslutninger om hvordan du konstruerer opplevelsene dine.
+
+Because2 = Hvordan du og andre mennesker opplever en verden i Resonite avhenger veldig av egenskapene til datamaskinene dine, og ikke alles datamaskin er den samme. Vi foreslår ikke at en byggherre skal bygge til laveste fellesnevner, men heller bare vurdere at hvis du kan ta et valg som forbedrer ytelsen uten å ofre visjonen din, bør du det.
+
+How1 = Hver plass i verkstedet vil gi deg en FPS-måler. Du vil kunne tukle med elementer eller innstillinger i rommet og observere effekten på systemets bilder per sekund. Verkstedet er begrenset til én person om gangen, noe som fjerner enhver effekt som andres handlinger eller eiendeler (som deres avatarer) kan ha på systemets ytelse.
+
+How2 = Når du er klar, fortsett gjennom portalen til den første Laben.
+
+
+Portal01 = Lab #1 - Belysning
+
+PointvsSpot = Et punktlys er et lys som skinner jevnt i alle retninger. Et punktlys er et lys som peker i én retning. En generell tommelfingerregel er at et punktlys tilsvarer seks punktlys (forestill deg et enkelt punktlys som peker langs de positive og negative x-, y- og z-aksene) - med andre ord når det gjelder "kostnaden" for ytelse , et punktlys "koster" så mye som seks individuelle spotlys. I tillegg blir beregningen mye mer komplisert hvis områder som påvirkes av lys overlapper hverandre.
+
+InThisLabLighting = I denne laboratoriet vil du ha muligheten til å sammenligne spotlys versus punktlys, og også sammenligne hvordan overlapping av effektområdene deres vil påvirke FPS. Du kan bytte mellom punktlys og spotlys. Du kan også endre rekkevidden til lysene og, for spotlys, både vinkelen som lyset selv peker på, samt vinkelen som bestemmer radiusen til lyskjeglen.
+
+
+Credits = Studiepoeng
+CreditsProgramming = Programmering
+CreditsMaterial = Materialer
+CreditsModeling = Modellering
+CreditsDesign = Design
+CreditsMusic = Musikk
+
+Sources = Kilder
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = Dette er et arbeid som pågår. Hvis du ønsker å bli med i The Optimizers og bidra til dette prosjektet, vennligst kontakt base med Jackalgirl i Resonite, på Discord eller via GitHub (lenke: ). Vi vil spesielt sette pris på hjelp med ekte oversettelser av tekst fra ekte mennesker til andre språk enn engelsk (og beklager hvis du synes maskinoversettelsen er vanskelig).

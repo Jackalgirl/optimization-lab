@@ -1,0 +1,40 @@
+Welcome = Welkom bij het Optimalisatielab!
+
+Lighttype = Lichttype
+LightPoint = Punt
+LightSpot = Spotlight
+CurrentLightAngle1 = Het licht wijst momenteel naar
+CurrentLightAngle2 = van recht naar beneden.
+CurrentSpotConeAngle = Spotkegelhoek:
+NotApplicable = N.v.t
+
+
+Why = Waarom Optimalisatie?
+
+Because1 = Resonite is een systeem dat zijn gebruikers uiterst flexibele mogelijkheden biedt voor bouwen en coderen. Maar aan deze flexibiliteit zijn kosten verbonden, vooral voor gebruikers die nieuw zijn in het renderen en programmeren van 3D: als je nog niet weet hoe dingen werken, dan is de kans groot dat je onbewust keuzes maakt die de prestaties kunnen beïnvloeden, zowel voor jou als voor anderen. mensen. Wij geloven dat niemand met deze kennis wordt geboren en dat een praktische manier om hierover te leren een nuttige manier is. Daarom hebben we dit laboratorium gebouwd, als een manier om kennis te delen en u de tools te geven die u nodig hebt om weloverwogen beslissingen te nemen over hoe u uw ervaringen opbouwt.
+
+Because2 = Hoe u en andere mensen een wereld in Resonite ervaren, hangt sterk af van de mogelijkheden van uw computers, en niet ieders computer is hetzelfde. Wij suggereren niet dat een bouwer moet bouwen op basis van de kleinste gemene deler, maar overwegen eenvoudigweg dat als u een keuze kunt maken die de prestaties verbetert zonder uw visie op te offeren, u dat ook moet doen.
+
+How1 = Elke ruimte binnen de werkplaats zal u voorzien van een FPS-meter. U kunt sleutelen aan items of instellingen in de ruimte en het effect ervan op de frames per seconde van uw systeem observeren. De workshop is beperkt tot één persoon tegelijk, waardoor elk effect dat de acties of middelen van andere mensen (zoals hun avatars) op de prestaties van uw systeem kunnen hebben, wordt geëlimineerd.
+
+How2 = Als je klaar bent, ga dan door het portaal naar het eerste Lab.
+
+
+Portal01 = Lab #1 - Verlichting
+
+PointvsSpot = Een puntlicht is een licht dat gelijkmatig in alle richtingen schijnt. Een spotlicht is een licht dat in één richting wijst. Een algemene vuistregel is dat een puntlicht gelijk is aan zes spotlichten (stel je voor dat een enkel spotlicht langs de positieve en negatieve x-, y- en z-as wijst) - met andere woorden, in termen van de "kosten" van de prestaties , een puntlicht "kost" maar liefst zes afzonderlijke spotjes. Bovendien wordt de berekening veel ingewikkelder als gebieden die door licht worden beïnvloed, elkaar overlappen.
+
+InThisLabLighting = In dit lab heb je de mogelijkheid om spotlichten en puntlichten te vergelijken, en ook te vergelijken hoe het overlappen van hun effectgebieden je FPS zal beïnvloeden. U kunt schakelen tussen puntlichten en spotlichten. Je kunt ook het bereik van de lampen wijzigen en, bij spotlampen, zowel de hoek waarin het licht zelf wijst, als de hoek die de straal van de lichtkegel bepaalt.
+
+
+Credits = Kredieten
+CreditsProgrammeren = Programmeren
+CreditsMateriaal = Materialen
+CreditsModeling = Modellering
+CreditsDesign = Ontwerp
+CreditsMusic = Muziek
+
+Sources = Bronnen
+SourcesTranslation = GoogleVertalen
+
+AdditionalNotes = Dit is werk in uitvoering. Als je je bij The Optimizers wilt aansluiten en wilt bijdragen aan dit project, neem dan contact op met Jackalgirl in Resonite, op Discord of via GitHub (link:). We zouden vooral hulp op prijs stellen bij echte vertalingen van tekst van echte mensen in andere talen dan het Engels (en verontschuldigen ons als u de automatische vertaling lastig vindt).

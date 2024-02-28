@@ -1,0 +1,40 @@
+Welcome = Welcome to the Optimization Lab!
+
+LightType = Light Type
+LightPoint = Point
+LightSpot = Spot
+CurrentLightAngle1 = Light is currently pointing at
+CurrentLightAngle2 = from straight down.
+CurrentSpotConeAngle = Spot cone angle:
+NotApplicable = N/A
+
+
+Why = Why Optimization?
+
+Because1 = Resonite is a system that provides its users with extremely flexible options for building and coding.  But such flexibility comes with a cost, especially for users who are new to 3D rendering and programming: if you don't yet know how things work, then it's very likely you unknowingly make choices that can affect peformance, both for you and for other people.  We beleive that no one is born with this knowledge and that a useful way to learn about it is with a hands-on approach.  This is why we have built this lab, as a way to share knowledge, and give you the tools you need to make informed decisions about how you construct your experiences.
+
+Because2 = How you and other people experience a world in Resonite depends very much on the capabilities of your computers, and not everyone's computer is the same.  We do not suggest that a builder should build to the lowest common denominator, but rather simply consider that if you can make a choice that improves performance without sacrificing your vision, you should.
+
+How1 = Each space within the workshop will provide you with an FPS meter.  You will be able to tinker with items or settings within the space and observe its effect on your system's frames per second.  The workshop is limited to one person at a time, which removes any effect that other people's actions or assets (such as their avatars) might have on your system's performance.
+
+How2 = When you are ready, proceed through the portal into the first Lab.
+
+
+Portal01 = Lab #1 - Lighting
+
+PointvsSpot = A point light is a light that shines evenly in all directions.  A spot light is a light that points in one direction. A general rule of thumb is that a point light is equivalent to six spot lights (imagine a single spot light pointing along the positive and negative x, y, and z axes) - in other words, in terms of the "cost" of performance, a point light "costs" as much as six individual spot lights.  Additionally, computation becomes much more complicated if areas affected by lights overlap.
+
+InThisLabLighting = In this lab, you will have the opportunity to compare spot lights versus point lights, and also compare how overlapping their areas of effect will impact your FPS.  You can switch between point lights and spot lights.  You can also change the range of the lights and, for spot lights, both the angle that the light itself is pointing, as well as the angle that determines the radius of its light cone. 
+
+
+Credits = Credits
+CreditsProgramming = Programming
+CreditsMaterial = Materials
+CreditsModeling = Modeling
+CreditsDesign = Design
+CreditsMusic = Music
+
+Sources = Sources
+SourcesTranslation = GoogleTranslate
+
+AdditionalNotes = This is a work in progress.  If you would like to join The Optimizers and contribute to this project, please touch base with Jackalgirl in Resonite, on Discord, or via GitHub (link: ).  We would especially appreciate help with real translations of text from real people into languages other than English (and apologize if you have found the machine translation awkward).
